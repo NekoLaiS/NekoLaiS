@@ -14,7 +14,7 @@
 
 ## About
 
-I'm Nikolay (NekoLaiS), based in Prague. I build visual-novel mods in **Ren'Py** for Doki Doki Literature Club. I'm the lead programmer and community manager at [Elysium Development](https://github.com/ElysiumTeamDevelopment), and I also tinker with JavaScript and small web/PWA projects.
+I'm Nikolay (NekoLaiS), based in Prague. I build visual-novel mods in **Ren'Py** for Doki Doki Literature Club. I'm the lead programmer and community manager at [Elysium Development](https://github.com/ElysiumTeamDevelopment).
 
 ## Projects
 
@@ -29,8 +29,8 @@ I'm Nikolay (NekoLaiS), based in Prague. I build visual-novel mods in **Ren'Py**
 
 ![RenPy](https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## Stats
 
