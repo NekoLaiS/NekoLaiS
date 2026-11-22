@@ -2,26 +2,34 @@
 
 # Hi, I'm Nikolay 👋
 
-**Ren'Py developer · DDLC modder · web experiments**
+**Lead programmer & community manager at Elysium Development · Ren'Py developer**
 
 [![Followers](https://img.shields.io/github/followers/NekoLaiS?style=for-the-badge&logo=github&labelColor=161b22&color=ff7b9c)](https://github.com/NekoLaiS?tab=followers)
 [![Location](https://img.shields.io/badge/Prague-Czechia-ff7b9c?style=for-the-badge)](https://github.com/NekoLaiS)
 [![On GitHub since](https://img.shields.io/badge/Joined-2021-ff7b9c?style=for-the-badge)](https://github.com/NekoLaiS)
 
-[Explore my work](https://github.com/NekoLaiS?tab=repositories) · [CupCake-Team](https://github.com/CupCake-Team)
+[Explore my work](https://github.com/NekoLaiS?tab=repositories) · [Elysium Development](https://github.com/ElysiumTeamDevelopment) · [elysiumteam.dev](https://elysiumteam.dev)
 
 </div>
 
 ## About
 
-I'm Nikolay (NekoLaiS), based in Prague. I build visual-novel mods in **Ren'Py**, mostly around Doki Doki Literature Club, and sometimes wander into JavaScript and small web/PWA projects. Member of [CupCake-Team](https://github.com/CupCake-Team).
+I'm Nikolay (NekoLaiS), based in Prague. I build visual-novel mods in **Ren'Py** for Doki Doki Literature Club. I'm the lead programmer and community manager at [Elysium Development](https://github.com/ElysiumTeamDevelopment), and I also tinker with JavaScript and small web/PWA projects.
 
 ## Projects
+
+### Elysium Development
+
+| Repository | Description | Stack |
+| --- | --- | --- |
+| [RenPyDynamicAmbient](https://github.com/ElysiumTeamDevelopment/RenPyDynamicAmbient) | Multi-channel ambient control system | Ren'Py |
+| [ElysiumDiscordRPC](https://github.com/ElysiumTeamDevelopment/ElysiumDiscordRPC) | Discord Rich Presence frontend for pypresence | Python |
+
+### Personal projects
 
 | Repository | Description | Stack |
 | --- | --- | --- |
 | [DDLC-Save-my-Soul](https://github.com/NekoLaiS/DDLC-Save-my-Soul) | DDLC mod | Ren'Py |
-| [Natsulogue](https://github.com/CupCake-Team/Natsulogue) | DDLC mod with CupCake-Team | Ren'Py |
 | [SayoriMod-dev](https://github.com/NekoLaiS/SayoriMod-dev) | Sayori mod development | Ren'Py |
 | [NatsukiModDev](https://github.com/NekoLaiS/NatsukiModDev) | Natsuki mod development | Python |
 | [Better-EMR-Phone](https://github.com/NekoLaiS/Better-EMR-Phone) | Phone UI framework for Ren'Py | Ren'Py |
