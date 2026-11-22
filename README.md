@@ -25,17 +25,6 @@ I'm Nikolay (NekoLaiS), based in Prague. I build visual-novel mods in **Ren'Py**
 | [RenPyDynamicAmbient](https://github.com/ElysiumTeamDevelopment/RenPyDynamicAmbient) | Multi-channel ambient control system | Ren'Py |
 | [ElysiumDiscordRPC](https://github.com/ElysiumTeamDevelopment/ElysiumDiscordRPC) | Discord Rich Presence frontend for pypresence | Python |
 
-### Personal projects
-
-| Repository | Description | Stack |
-| --- | --- | --- |
-| [DDLC-Save-my-Soul](https://github.com/NekoLaiS/DDLC-Save-my-Soul) | DDLC mod | Ren'Py |
-| [SayoriMod-dev](https://github.com/NekoLaiS/SayoriMod-dev) | Sayori mod development | Ren'Py |
-| [NatsukiModDev](https://github.com/NekoLaiS/NatsukiModDev) | Natsuki mod development | Python |
-| [Better-EMR-Phone](https://github.com/NekoLaiS/Better-EMR-Phone) | Phone UI framework for Ren'Py | Ren'Py |
-| [Autofocus](https://github.com/NekoLaiS/Autofocus) | Sprite zoom on dialogue | Ren'Py |
-| [test_intruktion_pwa](https://github.com/NekoLaiS/test_intruktion_pwa) | PWA experiment | JavaScript |
-
 ## Stack
 
 ![RenPy](https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=python&logoColor=white)
